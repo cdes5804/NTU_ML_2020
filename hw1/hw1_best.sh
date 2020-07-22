@@ -1,0 +1,1 @@
+python3 lin_reg.py $1 $2
